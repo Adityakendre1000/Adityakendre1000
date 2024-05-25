@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adityakendre1000
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning full stack
+- 🌱 I’m currently learning DSA
 - 📫 How to reach me adityakendre1000@gmail.com
 
 <!---
