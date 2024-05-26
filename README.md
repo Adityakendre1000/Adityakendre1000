@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me adityakendre1000@gmail.com
 
-![](https://leetcard.jacoblin.cool/AdityaKendre?ext=heatmap)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityakendre1000&show_icons=true&theme=transparent)
+
+![](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20)
 
 <!---
 Adityakendre1000/Adityakendre1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
