@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Kendre</h1>
 <h3 align="center">A passionate Engineer navigating the digital cosmos.</h3>
 
-- 🔭 I’m currently working on **my coding skills**
+- 🔭 I’m currently working on **my skills**
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Python and C++,**
+- 💬 Ask me about **Python and C++**
 
 - 📫 How to reach me **adityakendre1000@gmail.com**
 
