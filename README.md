@@ -22,7 +22,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakendre1000&layout=compact&hide=text,teX,html&exclude_repo=learning-python,Uber_Trips_Analysis )
 
-![](https://leetcard.jacoblin.cool/AdityaKendre?ext=heatmap)
 
 <!---
 Adityakendre1000/Adityakendre1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
